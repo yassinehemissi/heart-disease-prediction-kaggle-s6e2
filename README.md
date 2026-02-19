@@ -1,4 +1,4 @@
-# 🫀 Heart Disease Prediction
+# Heart Disease Prediction
 ### Stacking Ensemble · Recursive Feature Elimination · Target Encoding
 
 > Kaggle Playground Series S6E2 — binary classification predicting heart disease presence/absence, evaluated on ROC-AUC.
